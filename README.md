@@ -17,7 +17,7 @@ ___
 | Yellow | Purple        |
 ---
 
-## > Just watching my cats can make me happy. Paula Cole ([Read more](https://www.brainyquote.com/topics/cats))
+> ## Just watching my cats can make me happy. Paula Cole ([Read more](https://www.brainyquote.com/topics/cats))
 ## And a video with cats
 
 [![CATS](https://i.ytimg.com/vi/SP5RYYK3LaY/hqdefault.jpg)](https://www.youtube.com/watch?v=SP5RYYK3LaY)
