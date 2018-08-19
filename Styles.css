@@ -1,0 +1,143 @@
+body{
+	margin: 0;
+	font-family: Lato;
+}
+#wraper{
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	background: url("images/main-bg.png");
+	background-size: 100% 100%;
+}
+/*menu*/
+#nav{
+	position: absolute;
+	height: 100%;
+	float: left;
+	width: 6%;
+	box-shadow: 3px 0 10px LightGray;
+	background: white;
+}
+#nav #nav-items{
+	background: red;
+}
+#nav #nav-items li{
+	display: inline-block;	
+	margin: 0 auto;
+	height: 33px;
+	width: 40px;
+	background: white;
+	text-align: center;
+}
+#nav #nav-items #logo{
+	display: inline-block;
+	float: left;
+	height: 43px;
+	width: 45px;
+	background: url("images/logo.png");
+	background-size: 100% 100%;
+}
+/*header-text*/
+#header-text{	
+	display: inline-block;
+	margin: 80px 0 0 15%;
+	height: 10px;
+	width: 73%;	
+	/**/
+	text-align: center;
+}
+#header-text h1{	
+	margin: 0;
+	color: rgba(0,0,0,0.03);
+	font-size: 1300%;
+}
+#header{
+	position: relative;
+	top: -230px;
+	left: 35%;
+	height: 300px;
+	width: 30%;
+	/**/
+}
+#header h2{
+	margin: 0;
+	font-size: 600%;
+}
+#header h3{
+	margin: 2% 0 4%;
+	font-size: 100%;
+	font-weight: normal;
+}
+#header button{
+	height: 25px;
+	width: 30%;
+	color: white;
+	border: none;
+	border-radius: 15px;
+	background: blue;
+}
+/*menu*/
+#menu{
+	position: absolute;
+	display: inline-block;
+	float: right;
+	top: 0;
+	left: 84%;
+	height: 660px;
+	width: 16%;
+	box-shadow: -3px 0 10px LightGray;
+	background: white;
+}
+#menu-button{
+	visibility: visible;
+	display: inline-block;
+	margin: 50px 15% 0 0;
+	float: right;
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+	border: none;
+	box-shadow: 0 0 20px LightGray;
+	background: white;
+}
+#menu #categories{
+	display: inline-block;
+	float: right;	
+	margin: 50px 20% 0 0;
+	width: 50%;
+	/**/
+	direction: rtl;
+}
+#menu #categories li{
+	margin-top: 30px;
+	color: LightGray;
+	font-weight: bold;
+}
+#menu #categories li:first-child{
+	list-style-image: url(images/1-icon.png);
+}
+#menu #categories li:nth-child(2){
+	list-style-image: url(images/2-icon.png);
+}
+#menu #categories li:nth-child(3){
+	list-style-image: url(images/3-icon.png);
+}
+#menu #categories li:nth-child(4){
+	list-style-image: url(images/4-icon.png);
+}
+#menu #categories li:last-child{
+	list-style-image: url(images/5-icon.png);
+}
+/*all-cat*/
+#all-cat{
+	display: inline-block;
+	float: right;
+	margin: 50px 20% 0 0;
+	height: 20px;
+	min-width: 55%;
+}
+#all-cat span{
+	display: inline-block;
+	margin: 0;
+	font-size: 70%;
+}
