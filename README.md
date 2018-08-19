@@ -9,13 +9,15 @@
 
 ###### ( [here is link to that draft](https://cookiewithevil.github.io/draft_markup/) )
 ___
-### *Here are some complementary color, more [here](https://en.wikipedia.org/wiki/Complementary_colors)*
+### *Here are some complementary color, more about it [here](https://en.wikipedia.org/wiki/Complementary_colors)*
 | Color  | Complementary |
 | -------|:-------------:|
 | Red    | Green         |
 | Amber  | Violet        |
 | Yellow | Purple        |
 ---
+
+## > Just watching my cats can make me happy. Paula Cole ([Read more](https://www.brainyquote.com/topics/cats))
 ## And a video with cats
 
 [![CATS](https://i.ytimg.com/vi/SP5RYYK3LaY/hqdefault.jpg)](https://www.youtube.com/watch?v=SP5RYYK3LaY)
