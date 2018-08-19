@@ -9,4 +9,4 @@ ___
 ( [here is link to that draft](https://cookiewithevil.github.io/draft_markup/) )
 ---
 And a video with cats
-![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=SB-qEYVdvXA)
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=SP5RYYK3LaY)](https://www.youtube.com/watch?v=SP5RYYK3LaY)
